@@ -4,6 +4,11 @@
         "snapId": "1",
         "targetGpgCheck": "no",
         "targetGpgResign": "yes",
-        "targetEnv": "pprd"
+        "targetEnv": "pprd",
+        "targetArch": [
+            "x86_64"
+        ],
+        "targetSourcePackage": "yes",
+        "onlySyncDifference": "no"
     }
 ]
