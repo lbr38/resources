@@ -11,6 +11,10 @@
         "targetDescription": "CI - create repo test",
         "targetGpgCheck": "no",
         "targetGpgResign": "yes",
-        "targetGroup": ""
+        "targetGroup": "",
+        "targetArch": [
+            "x86_64"
+        ],
+        "targetSourcePackage": "yes"
     }
 ]
