@@ -1,0 +1,16 @@
+[
+    {
+        "action": "new",
+        "packageType": "deb",
+        "type": "mirror",
+        "source": "debian",
+        "alias": "debian",
+        "dist": "buster",
+        "section": "contrib",
+        "targetEnv": "pprd",
+        "targetDescription": "CI - create repo test",
+        "targetGpgCheck": "no",
+        "targetGpgResign": "yes",
+        "targetGroup": ""
+    }
+]

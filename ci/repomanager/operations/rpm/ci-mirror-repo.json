@@ -1,0 +1,16 @@
+[
+    {
+        "action": "new",
+        "packageType": "rpm",
+        "type": "mirror",
+        "source": "nginx",
+        "alias": "nginx",
+        "dist": "",
+        "section": "",
+        "targetEnv": "pprd",
+        "targetDescription": "CI - create repo test",
+        "targetGpgCheck": "no",
+        "targetGpgResign": "yes",
+        "targetGroup": ""
+    }
+]

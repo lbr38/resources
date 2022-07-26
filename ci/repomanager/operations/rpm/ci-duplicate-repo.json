@@ -1,0 +1,10 @@
+[
+    {
+        "action": "duplicate",
+        "snapId": "1",
+        "targetName": "nginx-copy",
+        "targetEnv": "pprd",
+        "targetDescription": "CI - duplicate repo test",
+        "targetGroup": ""
+    }
+]

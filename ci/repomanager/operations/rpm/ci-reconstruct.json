@@ -1,0 +1,7 @@
+[
+    {
+        "action": "reconstruct",
+        "snapId": "1",
+        "targetGpgResign": "yes"
+    }
+]
