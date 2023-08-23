@@ -1,6 +1,6 @@
 {
     "action": "update",
-    "snapId": "2",
+    "snapId": "3",
     "targetGpgCheck": "no",
     "targetGpgResign": "yes",
     "targetEnv": "pprd",

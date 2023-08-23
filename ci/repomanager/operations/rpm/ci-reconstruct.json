@@ -1,5 +1,5 @@
 {
     "action": "reconstruct",
-    "snapId": "2",
+    "snapId": "3",
     "targetGpgResign": "yes"
 }

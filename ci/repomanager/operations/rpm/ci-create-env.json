@@ -1,6 +1,6 @@
 {
     "action": "env",
-    "snapId": "2",
+    "snapId": "3",
     "targetEnv": "prod",
     "targetDescription": "CI - create prod env"
 }

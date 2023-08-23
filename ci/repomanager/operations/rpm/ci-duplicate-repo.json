@@ -1,6 +1,6 @@
 {
     "action": "duplicate",
-    "snapId": "2",
+    "snapId": "3",
     "targetName": "nginx-copy",
     "targetEnv": "pprd",
     "targetDescription": "CI - duplicate nginx repo",
