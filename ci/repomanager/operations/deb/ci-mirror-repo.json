@@ -4,12 +4,8 @@
     "type": "mirror",
     "source": "debian",
     "alias": "debian",
-    "dist": [
-        "buster"
-    ],
-    "section": [
-        "contrib"
-    ],
+    "dist": "buster",
+    "section": "contrib",
     "targetEnv": "pprd",
     "targetDescription": "CI - create debian contrib repo",
     "targetGpgCheck": "no",
