@@ -1,7 +1,5 @@
-[
-    {
-        "action": "reconstruct",
-        "snapId": "1",
-        "targetGpgResign": "yes"
-    }
-]
+{
+    "action": "reconstruct",
+    "snapId": "1",
+    "targetGpgResign": "yes"
+}

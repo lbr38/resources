@@ -1,8 +1,6 @@
-[
-    {
-        "action": "env",
-        "snapId": "1",
-        "targetEnv": "prod",
-        "targetDescription": "CI - create env test"
-    }
-]
+{
+    "action": "env",
+    "snapId": "1",
+    "targetEnv": "prod",
+    "targetDescription": "CI - create prod env"
+}

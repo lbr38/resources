@@ -1,10 +1,8 @@
-[
-    {
-        "action": "duplicate",
-        "snapId": "1",
-        "targetName": "nginx-copy",
-        "targetEnv": "pprd",
-        "targetDescription": "CI - duplicate repo test",
-        "targetGroup": ""
-    }
-]
+{
+    "action": "duplicate",
+    "snapId": "1",
+    "targetName": "nginx-copy",
+    "targetEnv": "pprd",
+    "targetDescription": "CI - duplicate nginx repo",
+    "targetGroup": ""
+}

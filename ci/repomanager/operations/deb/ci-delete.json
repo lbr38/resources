@@ -1,6 +1,4 @@
-[
-    {
-        "action": "delete",
-        "snapId": "1"
-    }
-]
+{
+    "action": "delete",
+    "snapId": "1"
+}
